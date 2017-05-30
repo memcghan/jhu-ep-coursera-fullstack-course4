@@ -1,3 +1,6 @@
+## Assignments
+1. [Assignment 2](site/assignment2/index.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/memcghan/jhu-ep-coursera-fullstack-course4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
