@@ -1,0 +1,99 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #FFF;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: #AAA;
+  border-radius: 0;
+  border: 2px;
+  margin-bottom: 0;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+.navbar-brand h1 {  /* Company name */
+  font-family: 'Lora', serif;
+  color: #000;
+  font-size: 1.8em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 15px;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+
+#collapsable-nav a { /* Collapsed nav menu text */
+  background-color: #AAA;
+}
+
+#nav-list {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+#nav-list a {
+  color: #000;
+  background-color: #FFF;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid #000;
+}
+#nav-list a:hover {
+  background-color: #DDD;
+}
+
+#main-content {
+  padding: 0;
+}
+#main-content h1 {
+  color: #000;
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+
+#menu-items {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.menu-item {
+  padding: 0;
+  margin: 0;
+}
+
+section {
+  height: 1000px;
+  overflow: auto;
+  margin: 15px;
+  padding: 0 15px 15px;
+  color: #000;
+  background-color: #AAA;
+}
+section h3 { /* menu-item title */
+  font-size: 1.2em;
+  font-weight: bold; 
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+/********** Extra extra small devices only **********/
+@media (max-width: 479px) {
+  #menu-items {
+    margin: 0;
+  }
+}
