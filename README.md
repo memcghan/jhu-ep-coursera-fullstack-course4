@@ -1,6 +1,7 @@
 ## Assignments
 1. [Assignment 2](site/assignment2/index.html)
 1. [Assignment 3](site/assignment3/index.html)
+1. [Assignment 4](site/assignment4/harder/index.html)
 
 ## Welcome to GitHub Pages
 
